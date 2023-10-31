@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fetch Coding Exercise</string>
+    <string name="fetch_rewards_demo_app">Fetch Rewards Demo App</string>
+    <string name="item_info">ListID: %1$d, ID: %2$d, Name: %3$s</string>
+</resources>
